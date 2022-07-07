@@ -4,9 +4,9 @@ public class Java8Features {
 /**
  * Java 8 Features => released March 18,2014
  * it's includes various upgrades to te java programming,JVM,Tools and Libraries
- * => Lambda expressions => working
- * => Method references
- * => Functional interfaces
+ * => Lambda expressions => completed
+ * => Method references => completed
+ * => Functional interfaces => working
  * => Stream Api
  * => Default method
  * => Base64 Encode Decode
